@@ -30,7 +30,6 @@ A simple web app that fetches random quotes from an API and displays them dynami
 
 3. FastAPI calls `get_quote()` in `quote_gen.py` and returns a JSON object:
 
-```json
 {
   "quote": "Beauty is everywhere a welcome guest.",
   "author": "Johann Wolfgang von Goethe"
