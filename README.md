@@ -19,4 +19,4 @@ A simple web app that fetches random quotes from an API and displays them dynami
 - **Frontend**: HTML, CSS, JavaScript (Fetch API)
 - **External API**: api-ninjas.com
 
-<img width="1200" height="800" alt="quote_page" src="https://github.com/user-attachments/assets/7d98ee61-14bc-48cc-ab52-c8ce1a75d5ec" />
+<img width="1440" height="662" alt="quote_page" src="https://github.com/user-attachments/assets/1785a286-22d2-475a-978d-43e839f14e0b" />
